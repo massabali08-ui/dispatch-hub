@@ -1,0 +1,6 @@
+if ("serviceWorker" in navigator) navigator.serviceWorker.register("/dev-sw.js?dev-sw", {
+	scope: "/",
+	type: "classic"
+});
+
+//# sourceMappingURL=data:application/json;base64,eyJtYXBwaW5ncyI6IkFBQUEsSUFBRyxtQkFBbUIsV0FBVyxVQUFVLGNBQWMsU0FBUyxxQkFBcUI7Q0FBRSxPQUFPO0NBQUssTUFBTTtBQUFVLENBQUMiLCJuYW1lcyI6W10sInNvdXJjZXMiOlsicmVnaXN0ZXJTVy5qcyJdLCJ2ZXJzaW9uIjozLCJzb3VyY2VzQ29udGVudCI6WyJpZignc2VydmljZVdvcmtlcicgaW4gbmF2aWdhdG9yKSBuYXZpZ2F0b3Iuc2VydmljZVdvcmtlci5yZWdpc3RlcignL2Rldi1zdy5qcz9kZXYtc3cnLCB7IHNjb3BlOiAnLycsIHR5cGU6ICdjbGFzc2ljJyB9KSJdfQ==
